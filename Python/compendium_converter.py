@@ -1,17 +1,12 @@
-from bs4 import BeautifulSoup
 import pandas as pd
 
-with open(r'Python\hyrule_compendium.html') as f:
-    soup = BeautifulSoup(f, 'html.parser')
+with open(r'Python\hyrule_compendium.html', 'r', encoding='utf-8') as f:
+    html_content = f.read()
 
-tables_html = soup.find_all('table', class_='wikitable')
-print(f"BeautifulSoup found {len(tables_html)} tables")
+tables = pd.read_html(html_content, attrs={'class': 'wikitable'})
 
-dfs = []
-for idx, table in enumerate(tables_html):
-    # Convert the single table HTML back to string and parse with pandas
-    df = pd.read_html(str(table))[0]
-    dfs.append(df)
-    print(f"Table {idx+1} shape: {df.shape}")
+print(f"Found {len(tables)} tables")
 
-# Now dfs is a list of DataFrames, one per table
+for i, table in enumerate(tables):
+    print(f"\nTable {i+1} preview:")
+    print(table.head(3))

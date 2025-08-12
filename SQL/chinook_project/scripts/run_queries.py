@@ -1,5 +1,6 @@
 import os
 import sqlite3
+print(sqlite3.sqlite_version)
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 

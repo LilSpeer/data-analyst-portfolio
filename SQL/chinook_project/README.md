@@ -52,6 +52,7 @@ The goal is to showcase **SQL query skills**, **data analysis**, and **visualiza
 ---
 
 ## Project Structure
+```plaintext
 |--- notebooks
     |--- analysis.ipynb # Main Jupyter Notebook
 |--- data/ # Chinook database / CSV exports
@@ -62,3 +63,4 @@ The goal is to showcase **SQL query skills**, **data analysis**, and **visualiza
     |--- queries.sql
     |--- run_queries.py
     |--- csv_converter.py
+```

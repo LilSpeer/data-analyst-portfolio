@@ -6,6 +6,10 @@ The goal is to showcase **SQL query skills**, **data analysis**, and **visualiza
 
 ---
 
+## Links
+- Tableau Dashboard: https://public.tableau.com/app/profile/austin.miller3996/viz/ChinookExecutiveOverview/ExecutiveOverview?publish=yes
+- Source Data: https://github.com/lerocha/chinook-database
+
 ## Objectives
 - Explore customer purchase behavior.
 - Identify top-performing genres, artists, and tracks.
@@ -19,7 +23,7 @@ The goal is to showcase **SQL query skills**, **data analysis**, and **visualiza
 - **SQL**: SQLite
 - **Python**: Pandas, Matplotlib, Seaborn
 - **Jupyter Notebook**
-- **Tableau** (for final dashboards)
+- **Tableau**
 
 ---
 
@@ -53,6 +57,9 @@ The goal is to showcase **SQL query skills**, **data analysis**, and **visualiza
 
 ## Project Structure
 ```plaintext
+|--- dashboards
+    |--- Chinook Executive Overview.twb
+    |--- preview.png
 |--- notebooks
     |--- analysis.ipynb # Main Jupyter Notebook
 |--- data/ # Chinook database / CSV exports

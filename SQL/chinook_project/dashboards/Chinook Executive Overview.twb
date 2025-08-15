@@ -2821,8 +2821,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1500' minheight='1500' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='75' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98114' id='74' param='vert' type-v2='layout-flow' w='99058' x='471' y='943'>
+            <zone h='100000' id='77' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98114' id='76' param='vert' type-v2='layout-flow' w='99058' x='471' y='943'>
                 <zone fixed-size='33' h='4717' id='4' is-fixed='true' name='Total Revenue' show-title='false' w='24500' x='471' y='943'>
                   <layout-cache fixed-size-h='19' type-h='fixed' type-w='fixed' />
                   <zone-style>

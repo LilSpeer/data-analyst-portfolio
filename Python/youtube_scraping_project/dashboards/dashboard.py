@@ -7,7 +7,7 @@ import os
 st.title("YouTube Channel Tracker")
 
 # Load all CSV snapshots
-output_dir = os.path.join(os.path.dirname(__file__), "../output")
+output_dir = os.path.join(os.path.dirname(__file__), "../scripts/Python/youtube_scraping_project/output")
 all_files = sorted(glob.glob(os.path.join(output_dir, "channel_stats_*.csv")))
 print("Files found:", all_files)
 if not all_files:

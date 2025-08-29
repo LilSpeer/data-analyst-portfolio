@@ -2,8 +2,11 @@ from googleapiclient.discovery import build
 import pandas as pd
 from datetime import datetime
 import os
+from dotenv import load_dotenv
 
-API_KEY = "AIzaSyCXpqOV7EscChBa0nga5OFssXVQvH30NuU"
+
+load_dotenv()  # loads from .env
+API_KEY = os.getenv("YOUTUBE_API_KEY")
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 

@@ -1,0 +1,129 @@
+=== DIAGNOSTICS REPORT ===
+Generated: 2025-12-21 05:01:18
+
+SYSTEM INFORMATION:
+- OS: Windows
+- OS Version: 10.0.26200
+- CPU Cores: 20
+- CPU Usage (%): 23.3
+- Total RAM (GB): 63.9
+- Used RAM (%): 44.7
+
+DISK STATUS:
+- C:\ (C:\): 83.2% used of 893.26 GB
+- D:\ (D:\): 3.8% used of 7452.0 GB
+- F:\ (F:\): 64.7% used of 1862.97 GB
+
+NETWORK CHECK:
+Success
+
+
+=== DIAGNOSTICS REPORT ===
+Generated: 2025-12-21 05:16:31
+
+SYSTEM INFORMATION:
+- OS: Windows
+- OS Version: 10.0.26200
+- CPU Cores: 20
+- CPU Usage (%): 25.3
+- Total RAM (GB): 63.9
+- Used RAM (%): 45.4
+
+DISK STATUS:
+- C:\ (C:\): 83.2% used of 893.26 GB
+- D:\ (D:\): 3.8% used of 7452.0 GB
+- F:\ (F:\): 64.7% used of 1862.97 GB
+
+NETWORK CHECK:
+Success
+
+
+=== DIAGNOSTICS REPORT ===
+Generated: 2025-12-21 05:16:54
+
+SYSTEM INFORMATION:
+- OS: Windows
+- OS Version: 10.0.26200
+- CPU Cores: 20
+- CPU Usage (%): 20.1
+- Total RAM (GB): 63.9
+- Used RAM (%): 45.3
+
+DISK STATUS:
+- C:\ (C:\): 83.2% used of 893.26 GB
+- D:\ (D:\): 3.8% used of 7452.0 GB
+- F:\ (F:\): 64.7% used of 1862.97 GB
+
+NETWORK DIAGNOSTICS:
+- Nearest Server Latency: Success (19 ms)
+
+
+=== DIAGNOSTICS REPORT ===
+Generated: 2025-12-21 05:19:49
+
+SYSTEM INFORMATION:
+- OS: Windows
+- OS Version: 10.0.26200
+- CPU Cores: 20
+- CPU Usage (%): 22.6
+- Total RAM (GB): 63.9
+- Used RAM (%): 45.6
+
+DISK STATUS:
+- C:\ (C:\): 83.2% used of 893.26 GB
+- D:\ (D:\): 3.8% used of 7452.0 GB
+- F:\ (F:\): 64.7% used of 1862.97 GB
+
+NETWORK DIAGNOSTICS:
+- Nearest Server Latency: Success (18 ms)
+
+
+=== DIAGNOSTICS REPORT ===
+Generated: 2025-12-21 05:21:44
+
+SYSTEM INFORMATION:
+- OS: Windows
+- OS Version: 10.0.26200
+- CPU Cores: 20
+- CPU Usage (%): 27.0
+- Total RAM (GB): 63.9
+- Used RAM (%): 45.5
+
+DISK STATUS:
+- C:\ (C:\): 83.2% used of 893.26 GB
+- D:\ (D:\): 3.8% used of 7452.0 GB
+- F:\ (F:\): 64.7% used of 1862.97 GB
+
+NETWORK DIAGNOSTICS:
+- Local Stack: Success (0 ms)
+- Gateway Reachability: Success (3 ms)
+- DNS Resolution: Success
+- External Connectivity: Success (18 ms)
+- Nearest Server Latency: Success (18 ms)
+
+
+=== DIAGNOSTICS REPORT ===
+Generated: 2025-12-21 05:25:25
+
+SYSTEM INFORMATION:
+- OS: Windows
+- OS Version: 10.0.26200
+- CPU Cores: 20
+- CPU Usage (%): 28.5
+- Total RAM (GB): 63.9
+- Used RAM (%): 45.9
+- GPU(s): ['4293918720  32.0.15.8097   NVIDIA GeForce RTX 4070']
+
+DISK STATUS:
+- C:\ (C:\): 83.2% used of 893.26 GB
+- D:\ (D:\): 3.8% used of 7452.0 GB
+- F:\ (F:\): 64.7% used of 1862.97 GB
+
+NETWORK DIAGNOSTICS:
+- Local Stack: Success (0 ms)
+- Gateway Reachability: Success (4 ms)
+- DNS Resolution: Success
+- External Connectivity: Success (18 ms)
+- Nearest Server Latency: Success (19 ms)
+
+
